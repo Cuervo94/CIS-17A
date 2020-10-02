@@ -1,0 +1,31 @@
+Group Leader: Pedro Longo
+
+Group: Hat-wearer
+Pedro Longo
+Daniel Monges
+Martin Perina
+
+Text game:
+3 chapters
+
+Story
+3 ministories that can be sorted
+User input
+Choice system (2-4 options every choice)
+Divided in chapters
+Fantasy game
+Character (wizard, orc, warrior, elf)
+Checkpoint
+Bosses (Maybe)
+User input
+Character class: 
+-Health bar
+-Strength
+-Dodge
+
+Punishments:
+Depending on skill
+
+
+
+
